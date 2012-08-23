@@ -37,7 +37,6 @@ Finally enable curriences in settings.py
 	)
 
 Usage:
-
 Create post form:
        {% load currencies %}
 
