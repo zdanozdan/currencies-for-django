@@ -24,8 +24,9 @@ Add the currencies you need to your settings.py as well as cookie name (session 
 	 )
     )
 
-Next add urls with prefix of yours choice
-    (r'^currency/', include('curriences.urls')),
+Next add urls with prefix of yours choice:
+
+	(r'^currency/', include('curriences.urls')),
 
 Finally enable curriences in settings.py
 
@@ -37,7 +38,8 @@ Finally enable curriences in settings.py
 	)
 
 Usage:
-load templatetags library
+load templatetags library:
+
 	{% load currencies %}
 
 Create post form:
