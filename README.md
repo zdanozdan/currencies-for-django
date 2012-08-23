@@ -37,8 +37,10 @@ Finally enable curriences in settings.py
 	)
 
 Usage:
-Create post form:
+load templatetags library
        {% load currencies %}
+
+Create post form:
 
        {% get_current_currency as currency %}
        {% get_available_currencies as CURRENCIES %}
@@ -58,6 +60,8 @@ Create post form:
 	 </select>
 	 <input type="submit" value="Switch Currency"/>
        </form> 
+
+Available template tags:
 
        @register.tag("get_current_currency")
        def do_get_current_currency(parser, token):
