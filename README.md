@@ -38,7 +38,7 @@ Finally enable curriences in settings.py
 
 Usage:
 load templatetags library
-       {% load currencies %}
+	{% load currencies %}
 
 Create post form:
 
