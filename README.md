@@ -4,10 +4,10 @@ currecies-for-django
 This simple app will add currecies list, some templatetags and post handler which will switch currency and save that selection in user session.
 
 Currency list based on:
-# http://download.geonames.org/export/dump/countryInfo.txt
-# A list of currency symbols is available here : http://forum.geonames.org/gforum/posts/list/437.page
-# This one taken !!!!!!!!!!!!!!
-# another list with fractional units is here: http://forum.geonames.org/gforum/posts/list/1961.page	
+http://download.geonames.org/export/dump/countryInfo.txt
+A list of currency symbols is available here : http://forum.geonames.org/gforum/posts/list/437.page
+This one taken !!!!!!!!!!!!!!
+another list with fractional units is here: http://forum.geonames.org/gforum/posts/list/1961.page	
 
 Install:
 Check out this app as 'currencies'
