@@ -1,0 +1,161 @@
+AED	د.إ	United Arab Emirates dirham	Fils
+AFN	؋	Afghan afghani	Pul
+ALL	L	Albanian lek	Qintar
+AMD	դր.	Armenian dram	Luma
+ANG	ƒ	Netherlands Antillean guilder	Cent
+AOA	Kz	Angolan kwanza	Cêntimo
+ARS	$	Argentine peso	Centavo
+AUD	$	Australian dollar	Cent
+AWG	ƒ	Aruban florin	Cent
+AZN		Azerbaijani manat	Qəpik
+BAM	КМ	Bosnia and Herzegovina convertible mark	Fening
+BBD	$	Barbadian dollar	Cent
+BDT	৳	Bangladeshi taka	Paisa
+BGN	лв	Bulgarian lev	Stotinka
+BHD	ب.د	Bahraini dinar	Fils
+BIF	Fr	Burundian franc	Centime
+BMD	$	Bermudian dollar	Cent
+BND	$	Brunei dollar	Sen
+BOB	Bs.	Bolivian boliviano	Centavo
+BRL	R$	Brazilian real	Centavo
+BSD	$	Bahamian dollar	Cent
+BTN		Bhutanese ngultrum	Chertrum
+BWP	P	Botswana pula	Thebe
+BYR	Br	Belarusian ruble	Kapyeyka
+BZD	$	Belize dollar	Cent
+CAD	$	Canadian dollar	Cent
+CDF	Fr	Congolese franc	Centime
+CHF	Fr	Swiss franc	Rappen
+CLP	$	Chilean peso	Centavo
+CNY	元	Chinese yuan	Fen
+COP	$	Colombian peso	Centavo
+CRC	₡	Costa Rican colón	Céntimo
+CUC	$	Cuban convertible peso	Centavo
+CUP	$	Cuban peso	Centavo
+CVE	Esc	Cape Verdean escudo	Centavo
+CZK	Kč	Czech koruna	Haléř
+DJF	Fr	Djiboutian franc	Centime
+DKK	kr	Danish krone	Øre
+DOP	$	Dominican peso	Centavo
+DZD	د.ج	Algerian dinar	Centime
+EEK	KR	Estonian kroon	Sent
+EGP	ج.م	Egyptian pound	Piastre
+ERN	Nfk	Eritrean nakfa	Cent
+ETB		Ethiopian birr	Santim
+EUR	€	Euro	Cent
+FJD	$	Fijian dollar	Cent
+FKP	£	Falkland Islands pound	Penny
+GBP	£	British pound	Penny
+GEL	ლ	Georgian lari	Tetri
+GHS	₵	Ghanaian cedi	Pesewa
+GIP	£	Gibraltar pound	Penny
+GMD	D	Gambian dalasi	Butut
+GNF	Fr	Guinean franc	Centime
+GTQ	Q	Guatemalan quetzal	Centavo
+GYD	$	Guyanese dollar	Cent
+HKD	$	Hong Kong dollar	Cent
+HNL	L	Honduran lempira	Centavo
+HRK	kn	Croatian kuna	Lipa
+HTG	G	Haitian gourde	Centime
+HUF	Ft	Hungarian forint	Fillér
+IDR	Rp	Indonesian rupiah	Sen
+ILS	₪	Israeli new sheqel	Agora
+INR	₨	Indian rupee	Paisa
+INR	Rs	Indian rupee	Paisa
+IQD	ع.د	Iraqi dinar	Fils
+IRR	﷼	Iranian rial	Dinar
+ISK	kr	Icelandic króna	Eyrir
+JMD	$	Jamaican dollar	Cent
+JOD	د.ا	Jordanian dinar	Piastre
+JPY	¥	Japanese yen	Sen
+KES	Sh	Kenyan shilling	Cent
+KGS		Kyrgyzstani som	Tyiyn
+KHR	៛	Cambodian riel	Sen
+KMF	Fr	Comorian franc	Centime
+KPW	₩	North Korean won	Chŏn
+KRW	₩	South Korean won	Jeon
+KWD	د.ك	Kuwaiti dinar	Fils
+KYD	$	Cayman Islands dollar	Cent
+KZT	〒	Kazakhstani tenge	Tiyn
+LAK	₭	Lao kip	Att
+LBP	ل.ل	Lebanese pound	Piastre
+LKR	Rs	Sri Lankan rupee	Cent
+LRD	$	Liberian dollar	Cent
+LSL	L	Lesotho loti	Sente
+LTL	Lt	Lithuanian litas	Centas
+LVL	Ls	Latvian lats	Santīms
+LYD	ل.د	Libyan dinar	Dirham
+MAD	د.م.	Moroccan dirham	Centime
+MDL	L	Moldovan leu	Ban
+MGA	Ar	Malagasy ariary	Iraimbilanja
+MKD	ден	Macedonian denar	Deni
+MMK	K	Myanma kyat	Pya
+MNT	₮	Mongolian tögrög	Möngö
+MOP	P	Macanese pataca	Avo
+MRO	UM	Mauritanian ouguiya	Khoums
+MUR	₨	Mauritian rupee	Cent
+MVR	ރ.	Maldivian rufiyaa	Laari
+MWK	MK	Malawian kwacha	Tambala
+MXN	$	Mexican peso	Centavo
+MYR	RM	Malaysian ringgit	Sen
+MZN	MTn	Mozambican metical	Centavo
+NAD	$	Namibian dollar	Cent
+NGN	₦	Nigerian naira	Kobo
+NIO	C$	Nicaraguan córdoba	Centavo
+NOK	kr	Norwegian krone	Øre
+NPR	₨	Nepalese rupee	Paisa
+NZD	$	New Zealand dollar	Cent
+OMR	ر.ع.	Omani rial	Baisa
+PAB	B/.	Panamanian balboa	Centésimo
+PEN	S/.	Peruvian nuevo sol	Céntimo
+PGK	K	Papua New Guinean kina	Toea
+PHP	₱	Philippine peso	Centavo
+PKR	₨	Pakistani rupee	Paisa
+PLN	zł	Polish złoty	Grosz
+PYG	₲	Paraguayan guaraní	Céntimo
+QAR	ر.ق	Qatari riyal	Dirham
+RON	L	Romanian leu	Ban
+RSD	дин.	Serbian dinar	Para
+RUB	руб.	Russian ruble	Kopek
+RWF	Fr	Rwandan franc	Centime
+SAR	ر.س	Saudi riyal	Hallallah
+SBD	$	Solomon Islands dollar	Cent
+SCR	₨	Seychellois rupee	Cent
+SDG	£	Sudanese pound	Piastre
+SEK	kr	Swedish krona	Öre
+SGD	$	Singapore dollar	Cent
+SHP	£	Saint Helena pound	Penny
+SLL	Le	Sierra Leonean leone	Cent
+SOS	Sh	Somali shilling	Cent
+SRD	$	Surinamese dollar	Cent
+STD	Db	São Tomé and Príncipe dobra	Cêntimo
+SVC	₡	Salvadoran colón	Centavo
+SYP	ل.س	Syrian pound	Piastre
+SZL	L	Swazi lilangeni	Cent
+THB	฿	Thai baht	Satang
+TJS	ЅМ	Tajikistani somoni	Diram
+TMM	m	Turkmenistani manat	Tennesi
+TND	د.ت	Tunisian dinar	Millime
+TOP	T$	Tongan paʻanga	Seniti
+TRY	TL	Turkish lira	Kuruş
+TRY	₤	Turkish lira	Kuruş
+TTD	$	Trinidad and Tobago dollar	Cent
+TWD	$	New Taiwan dollar	Cent
+TZS	Sh	Tanzanian shilling	Cent
+UAH	₴	Ukrainian hryvnia	Kopiyka
+UGX	Sh	Ugandan shilling	Cent
+USD	$	United States dollar	Cent
+UYU	$	Uruguayan peso	Centésimo
+UZS		Uzbekistani som	Tiyin
+VEF	Bs F	Venezuelan bolívar	Céntimo
+VND	₫	Vietnamese đồng	Hào
+VUV	Vt	Vanuatu vatu	None
+WST	T	Samoan tala	Sene
+XAF	Fr	Central African CFA franc	Centime
+XCD	$	East Caribbean dollar	Cent
+XOF	Fr	West African CFA franc	Centime
+XPF	Fr	CFP franc	Centime
+YER	﷼	Yemeni rial	Fils
+ZAR	R	South African rand	Cent
+ZMK	ZK	Zambian kwacha	Ngwee
+ZWL	$	Zimbabwean dollar	Cent
