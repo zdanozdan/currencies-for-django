@@ -1,6 +1,10 @@
-from django.template import (Node, Variable, TemplateSyntaxError,
-    TokenParser, Library, TOKEN_TEXT, TOKEN_VAR)
+from django.template import (Node, Variable, TemplateSyntaxError, TokenParser, Library, TOKEN_TEXT, TOKEN_VAR)
 from django.utils import translation
+
+from pprint import pprint
+from pprint import pformat
+
+import logging
 
 from django.contrib.sessions.backends.db import SessionStore
 
@@ -22,8 +26,7 @@ class GetCurrentCurrencyNode(Node):
         self.variable = variable
 
     def get_current_currency(self, context):
-        s = SessionStore(session_key=context.get('request').COOKIES.get('sessionid'))
-        return s.get('django_currency')
+        return context.get('request').session.get('django_currency')
 
     def render(self, context):
         context[self.variable] = self.get_current_currency(context)
