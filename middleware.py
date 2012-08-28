@@ -1,6 +1,5 @@
 "This is the locale selecting middleware that will look at accept headers"
 
-import logging
 from django.conf import settings
 
 class CurrencyLocaleMiddleware(object):
