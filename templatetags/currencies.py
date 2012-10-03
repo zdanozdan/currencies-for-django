@@ -21,6 +21,23 @@ class GetAvailableCurrenciesNode(Node):
         context[self.variable] = [(k, translation.ugettext(v)) for k, v in settings.CURRENCIES]
         return ''
 
+class GetCurrentCurrencyNameNode(Node):
+    def __init__(self, variable):
+        self.variable = variable
+
+    def get_currency_dict_name(self,currency_code):
+        try:
+            return CURRENCY_INFO[currency_code]['name'].decode('utf-8')
+        except KeyError:
+            raise KeyError("Unknown language code %r." % currency_code)
+
+    def get_current_currency_name(self, context):
+        return self.get_currency_dict_name(context.get('request').session.get('django_currency'))
+
+    def render(self, context):
+        context[self.variable] = self.get_current_currency_name(context)
+        return ''
+
 class GetCurrentCurrencyNode(Node):
     def __init__(self, variable):
         self.variable = variable
@@ -56,6 +73,24 @@ class GetCurrencyInfoListNode(Node):
         currencies = self.currencies.resolve(context)
         context[self.variable] = [self.get_currency_info(c) for c in currencies]
         return ''
+
+@register.tag("get_current_currency_name")
+def do_get_current_currency(parser, token):
+    """
+    This will store the current currency in the context.
+
+    Usage::
+
+        {% get_current_currency_name as currency_name %}
+
+    This will fetch the currently active currency name and
+    put it's value into the ``currency_name`` context
+    variable.
+    """
+    args = token.contents.split()
+    if len(args) != 3 or args[1] != 'as':
+        raise TemplateSyntaxError("'get_current_currency_name' requires 'as variable' (got %r)" % args)
+    return GetCurrentCurrencyNameNode(args[2])
 
 @register.tag("get_current_currency")
 def do_get_current_currency(parser, token):
